@@ -46,7 +46,16 @@ If you need to install `pip` (or just a newer version of it) please refer to the
 All set! Choose a ~~pill~~ button to get started 😎
 
 [DEVELOPER]({% link developer-guide.md %}){: .btn .btn-blue .mr-4 }
-[.. USER ..]({% link user-guide.md %}){: .btn .btn-red }
+[.. USER ..]({% link user-guide.md %}){: .btn .bg-red-100 }
+[.. USER ..]({% link user-guide.md %}){: .btn .btn-blue .bg-red-100 }
+
+<span class="fs-8">
+[**DEVELOPER**]({% link developer-guide.md %})
+{: .label .label-blue }
+
+[**.. USER ..**]({% link user-guide.md %})
+{: .label .label-red }
+</span>
 
 
 [OpenBakery repo]: https://github.com/miguelsousa/openbakery
