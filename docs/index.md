@@ -45,27 +45,8 @@ If you need to install `pip` (or just a newer version of it) please refer to the
 
 All set! Choose a ~~pill~~ button to get started 😎
 
-[DEVELOPER]({% link developer-guide.md %}){: .btn .btn-blue .mr-4 }
-[USER]({% link user-guide.md %}){: .btn .btn-red }
-
-<!-- [DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .d-inline-block }
-[USER]({% link user-guide.md %}){: .label .label-red }
-
-[DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .fs-6 .d-inline-block }
-[USER]({% link user-guide.md %}){: .label .fs-6 .label-red }
- -->
-
-[DEVELOPER]({% link developer-guide.md %}){: .label .label-blue }
-[USER]({% link user-guide.md %}){: .label .label-red }
-
-[DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .fs-3 }
-[USER]({% link user-guide.md %}){: .label .fs-3 .label-red }
-
 [DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .fs-4 }
 [USER]({% link user-guide.md %}){: .label .fs-4 .label-red }
-
-[DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .fs-5 }
-[USER]({% link user-guide.md %}){: .label .fs-5 .label-red }
 
 
 [OpenBakery repo]: https://github.com/miguelsousa/openbakery
