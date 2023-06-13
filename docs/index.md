@@ -2,13 +2,13 @@
 layout: default
 title: Home
 nav_order: 1
-description: "OpenBakery is a command-line tool for validating font binaries and, optionally, their source files and metadata."
+description: "OpenBakery is a command-line tool for validating font binaries, their source files, and metadata."
 ---
 
-# A font quality assurance tool for everyone
+# Font quality assurance for everyone
 {: .fs-9 }
 
-OpenBakery is a command-line tool that helps you validate font binaries, their source files, and metadata. [View it on GitHub][OpenBakery repo].
+OpenBakery is a command-line tool to help you validate font binaries, their source files, and metadata. [View it on GitHub][OpenBakery repo].
 {: .fs-6 .fw-300 }
 
 ---
@@ -20,7 +20,7 @@ OpenBakery is a command-line tool that helps you validate font binaries, their s
 OpenBakery requires **Python version 3.8** (or greater) and **`pip` version 22.0** (or greater).
 
 
-## Checking Python version
+### Checking Python version
 
 To determine if your system has Python installed and which version, open **Terminal** —on macOS and Linux— or **PowerShell** and **Command Prompt** —on Windows— and run the following command:
 
@@ -32,7 +32,7 @@ If the `python` command isn't found, try using `python3` instead.
 If you need to install Python (or just a newer version of it) please refer to the instructions provided at [python.org] for your platform.
 
 
-## Checking `pip` version
+### Checking `pip` version
 
 To determine if your Python environment has `pip` installed and which version, run this command:
 
@@ -45,11 +45,11 @@ If you need to install `pip` (or just a newer version of it) please refer to the
 
 All set! Choose one of the pills to get started 😎
 
-[  **I'm  a  user**  ]({% link user-guide.md %})
-{: .label .label-blue }
-
-[**I'm  a  developer**]({% link developer-guide.md %})
+[**DEVELOPER**]({% link developer-guide.md %})
 {: .label .label-red }
+
+[**-- USER --**]({% link user-guide.md %})
+{: .label .label-blue }
 
 
 [OpenBakery repo]: https://github.com/miguelsousa/openbakery
