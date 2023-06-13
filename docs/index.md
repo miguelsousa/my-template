@@ -47,17 +47,15 @@ All set! Choose a ~~pill~~ button to get started 😎
 
 [DEVELOPER]({% link developer-guide.md %}){: .btn .btn-blue .mr-4 }
 [USER]({% link user-guide.md %}){: .btn .btn-red }
-[USER]({% link user-guide.md %}){: .btn .btn-reda }
-[USER]({% link user-guide.md %}){: .btn .btn-redb }
-[USER]({% link user-guide.md %}){: .btn .btn-redc }
-
-<span class="fs-6">
+---
 [DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .d-inline-block }
-</span>
-
-<span class="fs-6">
 [USER]({% link user-guide.md %}){: .label .label-red }
-</span>
+---
+[DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .fs-6 .d-inline-block }
+[USER]({% link user-guide.md %}){: .label .fs-6 .label-red }
+---
+[DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .fs-7 }
+[USER]({% link user-guide.md %}){: .label .fs-7 .label-red }
 
 
 [OpenBakery repo]: https://github.com/miguelsousa/openbakery
