@@ -20,7 +20,7 @@ OpenBakery is a command-line tool that helps you validate font binaries, their s
 OpenBakery requires **Python version 3.8** (or greater) and **`pip` version 22.0** (or greater).
 
 
-### Checking Python's version
+## Checking Python version
 
 To determine if your system has Python installed and which version, open **Terminal** —on macOS and Linux— or **PowerShell** and **Command Prompt** —on Windows— and run the following command:
 
@@ -32,7 +32,7 @@ If the `python` command isn't found, try using `python3` instead.
 If you need to install Python (or just a newer version of it) please refer to the instructions provided at [python.org] for your platform.
 
 
-### Checking `pip`'s version
+## Checking `pip` version
 
 To determine if your Python environment has `pip` installed and which version, run this command:
 
@@ -40,14 +40,15 @@ To determine if your Python environment has `pip` installed and which version, r
 
 If you need to install `pip` (or just a newer version of it) please refer to the instructions provided at [pip.pypa.io].
 
----
 
-Alright, we're ready to go! Choose one of the pills to get started 😎
+## Ready to go
 
-[I'm a user]({% link user-guide.md %})
+All set! Choose one of the pills to get started 😎
+
+[  **I'm  a  user**  ]({% link user-guide.md %})
 {: .label .label-blue }
 
-[I'm a developer]({% link developer-guide.md %})
+[**I'm  a  developer**]({% link developer-guide.md %})
 {: .label .label-red }
 
 
