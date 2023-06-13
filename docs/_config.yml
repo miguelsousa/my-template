@@ -1,5 +1,13 @@
-title: MyProject
-description: MyProject documentation
+title: OpenBakery
+description: OpenBakery documentation
 theme: just-the-docs
 
 url: https://miguelsousa.github.io/my-template
+
+callouts:
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
