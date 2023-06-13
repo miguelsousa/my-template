@@ -47,15 +47,15 @@ All set! Choose a ~~pill~~ button to get started 😎
 
 [DEVELOPER]({% link developer-guide.md %}){: .btn .btn-blue .mr-4 }
 [USER]({% link user-guide.md %}){: .btn .btn-red }
-[USER]({% link user-guide.md %}){: .btn .btn-red1 }
-[USER]({% link user-guide.md %}){: .btn .btn-red2 }
-[USER]({% link user-guide.md %}){: .btn .btn-red3 }
+[USER]({% link user-guide.md %}){: .btn .btn-reda }
+[USER]({% link user-guide.md %}){: .btn .btn-redb }
+[USER]({% link user-guide.md %}){: .btn .btn-redc }
 
-<span class="fs-4">
-[DEVELOPER]({% link developer-guide.md %}){: .label .label-blue }
+<span class="fs-6">
+[DEVELOPER]({% link developer-guide.md %}){: .label .label-blue .d-inline-block }
 </span>
 
-<span class="fs-4">
+<span class="fs-6">
 [USER]({% link user-guide.md %}){: .label .label-red }
 </span>
 

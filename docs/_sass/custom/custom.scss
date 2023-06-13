@@ -2,14 +2,14 @@
   @include btn-color($white, $red-000);
 }
 
-.btn-red1 {
+.btn-reda {
   @include btn-color($white, $red-100);
 }
 
-.btn-red2 {
+.btn-redb {
   @include btn-color($white, $red-200);
 }
 
-.btn-red3 {
+.btn-redc {
   @include btn-color($white, $red-300);
 }
