@@ -1,4 +1,15 @@
 .btn-red {
   @include btn-color($white, $red-000);
-  border-radius: 10;
+}
+
+.btn-red1 {
+  @include btn-color($white, $red-100);
+}
+
+.btn-red2 {
+  @include btn-color($white, $red-200);
+}
+
+.btn-red3 {
+  @include btn-color($white, $red-300);
 }
